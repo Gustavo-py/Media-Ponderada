@@ -1,2 +1,2 @@
 # Media Ponderada
- Media ponderada 
+ Calculando Media ponderada de um aluno
